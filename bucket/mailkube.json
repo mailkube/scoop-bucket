@@ -1,0 +1,22 @@
+{
+    "version": "1.1.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mailkube/mailkube-cli/releases/download/v1.1.3/mailkube_1.1.3_windows_amd64.zip",
+            "bin": [
+                "mailkube.exe"
+            ],
+            "hash": "c989ce57200adddc50c264f5c7dfaeaa675e24fbe51048f3343d0df4b69717a9"
+        },
+        "arm64": {
+            "url": "https://github.com/mailkube/mailkube-cli/releases/download/v1.1.3/mailkube_1.1.3_windows_arm64.zip",
+            "bin": [
+                "mailkube.exe"
+            ],
+            "hash": "7bde66060dca07a7848f058badd9dab722064d0e2c519abd54d752bc557e16c2"
+        }
+    },
+    "homepage": "https://docs.mailkube.com/cli",
+    "license": "Apache-2.0",
+    "description": "Send mail, manage scheduled sends, and receive webhooks from your terminal."
+}
