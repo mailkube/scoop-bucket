@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mailkube/mailkube-cli/releases/download/v1.2.0/mailkube_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/mailkube/mailkube-cli/releases/download/v1.2.1/mailkube_1.2.1_windows_amd64.zip",
             "bin": [
                 "mailkube.exe"
             ],
-            "hash": "bf1c7fea45466b7ff641c65c977acbef159ef68ad3f0fdcee68cfdd5d817eeb9"
+            "hash": "63cc1d3129840b0271bf67ee917f90c2bcd828c026d148936d52d346dd1d9f35"
         },
         "arm64": {
-            "url": "https://github.com/mailkube/mailkube-cli/releases/download/v1.2.0/mailkube_1.2.0_windows_arm64.zip",
+            "url": "https://github.com/mailkube/mailkube-cli/releases/download/v1.2.1/mailkube_1.2.1_windows_arm64.zip",
             "bin": [
                 "mailkube.exe"
             ],
-            "hash": "e33d2b831886888bcc0086f81e82f881fe6f42e8164076711a5ad2abaf0ad71d"
+            "hash": "95aff0bd02b76f6f07f8c97e2ab7ea02c5664a1a22c1fd13e87975ee4ef4a647"
         }
     },
     "homepage": "https://docs.mailkube.com/cli",
